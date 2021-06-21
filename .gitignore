@@ -1,0 +1,6 @@
+*.log
+__pycache__/
+.venv/
+.python-version
+.vscode/
+Selenium/
